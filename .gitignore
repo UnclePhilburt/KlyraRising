@@ -4,6 +4,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+
+# Keep WebGL build for GitHub Pages
+!docs/Build/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
