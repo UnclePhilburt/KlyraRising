@@ -1,10 +1,10 @@
 const cacheName = "DefaultCompany-Klyra Realms-0.1.0";
 const contentToCache = [
     "Build/doc.loader.js",
-    "Build/doc.framework.js.br",
-    "Build/doc.worker.js.br",
-    "Build/doc.data.br",
-    "Build/doc.wasm.br",
+    "Build/doc.framework.js.unityweb",
+    "Build/doc.worker.js.unityweb",
+    "Build/doc.data.unityweb",
+    "Build/doc.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
