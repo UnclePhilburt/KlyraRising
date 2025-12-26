@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c146a26256314e3b9c5f568e92d1fa8, type: 3}
+  m_Name: SM_Chr_Generic_Female_01
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: SM_Chr_Generic_Female_01
+  displayName: Villager
+  prefab: {fileID: 591046562239095981, guid: bd6afa1f4af0f7c4d98184e71df2b4c9, type: 3}
+  unlockedByDefault: 0
+  icon: {fileID: 0}
+  description: 
